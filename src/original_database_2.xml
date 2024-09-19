@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <cake>
+        <name>Red Velvet Strawberry Cake</name>
+        <stovetime>45 min</stovetime>
+        <ingredients>
+            <item>
+                <itemname>Flour</itemname>
+                <itemcount>3</itemcount>
+                <itemunit>mugs</itemunit>
+            </item>
+            <item>
+                <itemname>Strawberries</itemname>
+                <itemcount>8</itemcount>
+                <itemunit></itemunit> <!-- itemunit may be empty  -->
+            </item>
+            <item>
+                <itemname>Cinnamon</itemname>
+                <itemcount>1</itemcount>
+                <itemunit></itemunit>
+            </item>
+            <item>
+                <itemname>Coffee Beans</itemname>
+                <itemcount>1</itemcount>
+                <itemunit>pieces</itemunit>
+            </item>
+            <!-- Here can be more ingredients  -->
+        </ingredients>
+    </cake>
+    <cake>
+        <name>Moonshine Muffin</name>
+        <stovetime>30 min</stovetime>
+        <ingredients>
+            <item>
+                <itemname>Baking powder</itemname>
+                <itemcount>3</itemcount>
+                <itemunit>teaspoons</itemunit>
+            </item>
+            <item>
+                <itemname>Brown sugar</itemname>
+                <itemcount>0.5</itemcount>
+                <itemunit>cup</itemunit>
+            </item>
+            <item>
+                <itemname>Blueberries</itemname>
+                <itemcount>1</itemcount>
+                <itemunit>cup</itemunit>
+            </item>
+            <!-- Here can be more ingredients  -->
+        </ingredients>
+    </cake>
+    <cake>
+        <name>Blueberry Igor Cake</name>
+        <stovetime>50 min</stovetime>
+        <ingredients>
+            <item>
+                <itemname>Baking powder</itemname>
+                <itemcount>3</itemcount>
+                <itemunit>teaspoons</itemunit>
+            </item>
+            <item>
+                <itemname>Brown sugar</itemname>
+                <itemcount>0.5</itemcount>
+                <itemunit>cup</itemunit>
+            </item>
+            <item>
+                <itemname>Blueberries</itemname>
+                <itemcount>1</itemcount>
+                <itemunit>cup</itemunit>
+            </item>
+            <!-- Here can be more ingredients  -->
+        </ingredients>
+    </cake>
+    <!-- Here can be more cakes  -->
+</recipes>

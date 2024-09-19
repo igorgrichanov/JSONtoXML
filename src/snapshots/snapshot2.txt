@@ -1,0 +1,7 @@
+/Users/baker/pokemon.avi
+/etc/systemd/system/very_important/stash_location.jpg
+/var/log/payments.log
+/Users/igor/otchet.docx
+/etc/homebrew/LICENSE.txt
+/var/log/browser_history.txt
+/Users/baker/recipes/database_version3.yaml
